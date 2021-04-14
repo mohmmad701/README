@@ -1,4 +1,5 @@
-# What about java script:
+# What about java script and css and html:
+![this figure about the sycle of html css and javascrirpt ](https://image.shutterstock.com/shutterstock/photos/1188713476/display_1500/stock-vector-vector-collection-of-web-development-shield-signs-html-css-and-javascript-1188713476.jpg)
 #  how i can fix the language and use them from the same project 
 * i need to know the html have  syntax like *<htm>*
 the css have a deferant syntax *{css}* and the java script have a syntax like  *javascrirpt()*
@@ -8,7 +9,9 @@ the css have a deferant syntax *{css}* and the java script have a syntax like  *
  file using html have a  name of  name of file.js
  
  # the javascrirpt is a programming language to make a website interactive and  adding functionality and olse you can easy to use easy to view and the javascrirpt have a logic but the html its a huuper marker languge 
- the javascrirpt ![this figure about the sycle of html css and javascrirpt ](https://www.shutterstock.com/image-vector/vector-collection-web-development-shield-signs-1188713476)
+  
+
+ 
   ##  i can write  acode using javascrirpt like:
  ** <script> and write somthing here </script>**
  ##  when we need to upload the linke of extearnal javascrirpt we need to write this cod inside body like 

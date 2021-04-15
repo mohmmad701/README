@@ -1,7 +1,7 @@
 mohammad riziq am 31 i study at zarqa unvirsity 
 
 
-| reads         | Links                    | 
+| reads         | Links                        | 
 | --------------| -----------              |  
 | grorwthmindset| [grouth](growth)         |
 | read01        | [markdown](read01)       | 
@@ -9,3 +9,4 @@ mohammad riziq am 31 i study at zarqa unvirsity
 | read03        | [html](read03)           |
 | read04        | [js  ](read04 )          |
 |read04b        | [about computer](read04b)|
+|read05         | [abot compaerand loop](read05) |

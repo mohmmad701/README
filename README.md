@@ -11,4 +11,4 @@ mohammad riziq am 31 i study at zarqa unvirsity
 |read04b        | [about computer](read04b)|
 |read05         | [abot compaerand loop](read05) |
 |read07         |[aboutDesign web pages with CSS](read07)   |read06         |[Aboutjs operator and function](read06)
-|read09         |[](read09)|
+|read09         |[read about editor](read09)|
